@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">primeclone</string>
+    <string name="start_over">Start Over</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="linkAmazon"><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ">
+        Conditions of use
+    </a>
+</string>
+</resources>

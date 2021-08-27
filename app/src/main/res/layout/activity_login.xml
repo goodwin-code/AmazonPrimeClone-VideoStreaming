@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1b2530"
+    tools:context=".Login">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="170dp"
+        android:layout_height="90dp"
+        android:src="@drawable/primelll"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/signIntext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:padding="8dp"
+        android:textColor="@color/white"
+        android:text="Sign-In"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/name_background"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:textColor="@color/black"
+        android:textColorHint="#8C8A8A"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/signIntext">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/name_background"
+        android:hint="Password"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:textColor="@color/black"
+        android:textColorHint="#8C8A8A"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/email">
+
+    </EditText>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show password"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintStart_toStartOf="@+id/password"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
+
+    <Button
+        android:id="@+id/Sign_inbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="@font/roboto_medium"
+        android:padding="12dp"
+        android:text="Sign-In"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#ff9900"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/checkBox"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox">
+
+    </Button>
+
+    <TextView
+        android:id="@+id/condition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/amzn_rggb"
+        android:text="By continuing. you agree to Amazon's ."
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@id/Sign_inbtn"
+        app:layout_constraintTop_toBottomOf="@+id/Sign_inbtn">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/condition2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amzn_rggb"
+        android:text="@string/linkAmazon"
+        android:textColor="@color/amazon"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/condition"
+        app:layout_constraintStart_toEndOf="@+id/condition">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/condition3"
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:fontFamily="@font/amzn_rggb"
+        android:text="and"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@id/condition"
+        app:layout_constraintTop_toBottomOf="@+id/condition">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/condition4"
+        android:layout_width="126dp"
+        android:layout_height="37dp"
+        android:fontFamily="@font/amzn_rggb"
+        android:text=" Privacy Notice."
+        android:textColor="#298aaa"
+        android:textSize="14sp"
+        app:layout_constraintStart_toEndOf="@+id/condition3"
+        app:layout_constraintTop_toBottomOf="@+id/condition" />
+
+    <TextView
+        android:id="@+id/new_amazon"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/amazon_he"
+        android:text="New to Amazon?"
+        android:textColor="#ff9900"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@+id/condition4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/condition"
+        app:layout_constraintTop_toBottomOf="@+id/condition">
+
+    </TextView>
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="120dp"
+        android:layout_height="2dp"
+        android:layout_marginStart="32dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="@id/new_amazon"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </View>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="120dp"
+        android:layout_height="2dp"
+        android:layout_marginEnd="10dp"
+        android:background="@color/white"
+        android:layout_marginLeft="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/new_amazon"
+        app:layout_constraintEnd_toEndOf="parent">
+
+    </View>
+
+    <Button
+        android:id="@+id/CreateAcc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/roboto_medium"
+        android:padding="7dp"
+        android:background="@drawable/play_btn_bg"
+        android:text="Create a new Amazon account"
+        android:textAllCaps="false"
+        android:textColor="#ff9900"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/new_amazon"
+        app:layout_constraintTop_toBottomOf="@+id/new_amazon" />
+
+    <TextView
+        android:id="@+id/forgotPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot password?"
+        android:textAlignment="textEnd"
+        android:layout_marginTop="10dp"
+        android:textColor="#7989E8"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/password"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
+</androidx.constraintlayout.widget.ConstraintLayout>

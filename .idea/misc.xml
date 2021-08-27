@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/amznshare.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/button_social.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/download.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/home.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_bookmark.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_drop_down_menu.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_facebk.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_fb.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_heart.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_iista.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_insta.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_like.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_linkedin.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_sharing.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_star.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_twitter.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_whatsapp.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/ic_youtube.xml" value="0.1" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/indicator_selector.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/label_bg.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/movie_detail_bg.xml" value="0.871875" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/name_background.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/play_btn_bg.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/selected.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/unselected.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/drawable/watch_bg.xml" value="0.1984375" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/font/font.xml" value="0.2125" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/font/fonts.xml" value="0.2125" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/activity_movie_details.xml" value="0.12" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/activity_registration.xml" value="0.18" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/activity_videoplayer.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/banner_movie_layout.xml" value="0.21" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/bottom_navigation.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/bottomnav.xml" value="0.21" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/cat_row_item2.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/cat_row_items.xml" value="0.2" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/custome_controller.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/header_menu.xml" value="0.5" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/main_recycler_ritem.xml" value="0.18" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/layout/navdrawer.xml" value="0.25" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/menu/bottom_nav.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/menu/bottom_nav_bar.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/gudwi/AndroidStudioProjects/primeclone/app/src/main/res/menu/iconmenu.xml" value="0.18229166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
